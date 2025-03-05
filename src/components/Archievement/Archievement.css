@@ -1,0 +1,6 @@
+.archievement_c{
+    background: linear-gradient(0deg,#000c,#000c),url("../../assets/imgs/archievementBg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

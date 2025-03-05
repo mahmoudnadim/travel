@@ -1,0 +1,22 @@
+.hero_c {
+    margin-bottom: 2rem;
+}
+.hero {
+    padding: 3rem 2rem;
+    background: var(--primary-color);
+}
+.heroBtn {
+    background: var(--secondary-green);
+}
+
+
+@media (min-width: 768px) {
+    .hero {
+        background: var(--primary-color);
+        padding: 5rem 3rem;
+    }
+    .hero_c {
+        margin-bottom: 2rem;
+        padding: .8rem 5rem;
+    }
+}

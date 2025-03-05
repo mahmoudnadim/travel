@@ -1,0 +1,23 @@
+
+
+.footer_c{
+    background: #00349A;
+}
+.footerItemListItem{
+    font-size: .8rem;
+}
+.footerItem{
+    padding-left: .5rem;
+    padding-right:.5rem ;
+    flex: none;
+}
+
+
+@media (max-width: 640px) { 
+    .footerItemTitle{
+      font-size: 1.5rem;
+    }
+    .footerItemList>*{
+        width: 100%;
+    }
+  }

@@ -1,0 +1,9 @@
+
+.filterAsideList a{
+    transition: all .2s;
+}
+
+.filterAsideList a:hover{
+    background: #333;
+    color: white;
+}

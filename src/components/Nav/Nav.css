@@ -1,0 +1,42 @@
+.MNav {
+    left: -51%;
+}
+
+.navListItem,
+.navListItem * {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #333;
+}
+
+.navListItem a {
+    border-bottom: .2rem solid transparent;
+    transition: all .3s;
+}
+
+.navListItem a:hover {
+    border-bottom: .2rem solid var(--primary-color);
+}
+
+.searchIcon svg {
+    cursor: pointer;
+}
+
+.isOpen {
+    left: 0;
+}
+
+.isClose {
+    left: -51%;
+}
+
+@media (max-width: 768px) {
+    .MNav {
+        background: #002b81;
+        gap: 2rem;
+    }
+
+    .MNav *{
+        color: #fff;
+    }
+}

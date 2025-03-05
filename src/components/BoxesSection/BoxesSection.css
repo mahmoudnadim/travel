@@ -1,0 +1,18 @@
+.BSITitle{
+    color: #333;
+}
+/* .BSItems{
+    width:25%;
+} */
+.BS_c::-webkit-scrollbar{
+    display: none;
+}
+.boxesSearch{
+    gap: .5rem;
+}
+.boxesSearch svg{
+    color: #78716c;
+}
+.BSItems{
+    width: 48%;
+}
