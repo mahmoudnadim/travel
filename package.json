@@ -44,5 +44,9 @@
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "tailwindcss": "^3.4.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahmoudnadim/travel.git"
   }
 }
