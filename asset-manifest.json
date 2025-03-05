@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://mahmoudnadim.github.io/travel/static/css/main.008b00fb.css",
-    "main.js": "https://mahmoudnadim.github.io/travel/static/js/main.4a707916.js",
+    "main.js": "https://mahmoudnadim.github.io/travel/static/js/main.9b373ec6.js",
     "static/js/453.eae0a97b.chunk.js": "https://mahmoudnadim.github.io/travel/static/js/453.eae0a97b.chunk.js",
     "static/media/travel_1.jpg": "https://mahmoudnadim.github.io/travel/static/media/travel_1.96ef506a095706c5566d.jpg",
     "static/media/travel_5.jpg": "https://mahmoudnadim.github.io/travel/static/media/travel_5.0319f5cfb39650ba37d3.jpg",
@@ -15,11 +15,11 @@
     "static/media/logo.png": "https://mahmoudnadim.github.io/travel/static/media/logo.9bab7ccade4498bca2de.png",
     "index.html": "https://mahmoudnadim.github.io/travel/index.html",
     "main.008b00fb.css.map": "https://mahmoudnadim.github.io/travel/static/css/main.008b00fb.css.map",
-    "main.4a707916.js.map": "https://mahmoudnadim.github.io/travel/static/js/main.4a707916.js.map",
+    "main.9b373ec6.js.map": "https://mahmoudnadim.github.io/travel/static/js/main.9b373ec6.js.map",
     "453.eae0a97b.chunk.js.map": "https://mahmoudnadim.github.io/travel/static/js/453.eae0a97b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.008b00fb.css",
-    "static/js/main.4a707916.js"
+    "static/js/main.9b373ec6.js"
   ]
 }
