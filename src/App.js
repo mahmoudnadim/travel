@@ -16,7 +16,7 @@ function App() {
         <FaBars />
       </div>
       <Nav />
-      <Router>
+      <Router basename='/travel'>
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/trips' element={<AllTrips />} />

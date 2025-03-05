@@ -8,7 +8,7 @@ export default function TripsBox(props) {
           <img className="BSImg rounded-lg aspect-video object-cover" src={props.img} alt="" />
         </a>
         <div className="BSIContent flex justify-between items-center py-2">
-          <a href={"/trip/" + props.id} className="BSITitle font-semibold text-nowrap text-ellipsis overflow-hidden w-2/3 max-sm:w-3/5">{props.title}</a>
+          <a href={"trip/" + props.id} className="BSITitle font-semibold text-nowrap text-ellipsis overflow-hidden w-2/3 max-sm:w-3/5">{props.title}</a>
           <p className="BSITime max-sm:text-sm text-slate-500">{props.time}</p>
         </div>
       </div>
