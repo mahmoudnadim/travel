@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/travel/static/css/main.56f6290c.css",
-    "main.js": "/travel/static/js/main.09a468f4.js",
-    "static/js/453.eae0a97b.chunk.js": "/travel/static/js/453.eae0a97b.chunk.js",
-    "static/media/travel_1.jpg": "/travel/static/media/travel_1.96ef506a095706c5566d.jpg",
-    "static/media/travel_5.jpg": "/travel/static/media/travel_5.0319f5cfb39650ba37d3.jpg",
-    "static/media/travel_2.jpg": "/travel/static/media/travel_2.28ef1936c981d44c7f4a.jpg",
-    "static/media/travel_6.jpg": "/travel/static/media/travel_6.5c5c80a61a715dba6a75.jpg",
-    "static/media/travel_3.jpg": "/travel/static/media/travel_3.fd1d34b0d66e5ed43481.jpg",
-    "static/media/travel_4.jpg": "/travel/static/media/travel_4.a93850eb261885d657e8.jpg",
-    "static/media/archievementBg.jpg": "/travel/static/media/archievementBg.bef9381f39faca4ff307.jpg",
-    "static/media/customerPic_1.jpg": "/travel/static/media/customerPic_1.dd366edef9089ab8cfd3.jpg",
-    "static/media/traveling_icon.svg": "/travel/static/media/traveling_icon.89bab6cf507e9f2d48bfa9e402243ee4.svg",
-    "static/media/logo.png": "/travel/static/media/logo.9bab7ccade4498bca2de.png",
-    "index.html": "/travel/index.html",
-    "main.56f6290c.css.map": "/travel/static/css/main.56f6290c.css.map",
-    "main.09a468f4.js.map": "/travel/static/js/main.09a468f4.js.map",
-    "453.eae0a97b.chunk.js.map": "/travel/static/js/453.eae0a97b.chunk.js.map"
+    "main.css": "https://mahmoudnadim.github.io/travel/static/css/main.008b00fb.css",
+    "main.js": "https://mahmoudnadim.github.io/travel/static/js/main.fed35df6.js",
+    "static/js/453.eae0a97b.chunk.js": "https://mahmoudnadim.github.io/travel/static/js/453.eae0a97b.chunk.js",
+    "static/media/travel_1.jpg": "https://mahmoudnadim.github.io/travel/static/media/travel_1.96ef506a095706c5566d.jpg",
+    "static/media/travel_5.jpg": "https://mahmoudnadim.github.io/travel/static/media/travel_5.0319f5cfb39650ba37d3.jpg",
+    "static/media/travel_2.jpg": "https://mahmoudnadim.github.io/travel/static/media/travel_2.28ef1936c981d44c7f4a.jpg",
+    "static/media/travel_6.jpg": "https://mahmoudnadim.github.io/travel/static/media/travel_6.5c5c80a61a715dba6a75.jpg",
+    "static/media/travel_3.jpg": "https://mahmoudnadim.github.io/travel/static/media/travel_3.fd1d34b0d66e5ed43481.jpg",
+    "static/media/travel_4.jpg": "https://mahmoudnadim.github.io/travel/static/media/travel_4.a93850eb261885d657e8.jpg",
+    "static/media/archievementBg.jpg": "https://mahmoudnadim.github.io/travel/static/media/archievementBg.bef9381f39faca4ff307.jpg",
+    "static/media/customerPic_1.jpg": "https://mahmoudnadim.github.io/travel/static/media/customerPic_1.dd366edef9089ab8cfd3.jpg",
+    "static/media/traveling_icon.svg": "https://mahmoudnadim.github.io/travel/static/media/traveling_icon.89bab6cf507e9f2d48bfa9e402243ee4.svg",
+    "static/media/logo.png": "https://mahmoudnadim.github.io/travel/static/media/logo.9bab7ccade4498bca2de.png",
+    "index.html": "https://mahmoudnadim.github.io/travel/index.html",
+    "main.008b00fb.css.map": "https://mahmoudnadim.github.io/travel/static/css/main.008b00fb.css.map",
+    "main.fed35df6.js.map": "https://mahmoudnadim.github.io/travel/static/js/main.fed35df6.js.map",
+    "453.eae0a97b.chunk.js.map": "https://mahmoudnadim.github.io/travel/static/js/453.eae0a97b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56f6290c.css",
-    "static/js/main.09a468f4.js"
+    "static/css/main.008b00fb.css",
+    "static/js/main.fed35df6.js"
   ]
 }
